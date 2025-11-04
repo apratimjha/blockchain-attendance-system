@@ -75,6 +75,4 @@ contract Attendance {
 - 🧾 Add admin panel to view records  
 - 🔐 Add role-based access control
 
-## 👨‍💻 Author
 
-- **Prathamesh** ([@PYB05](https://github.com/PYB05))
